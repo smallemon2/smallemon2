@@ -17,6 +17,12 @@
       </a>
       <br/> Spring
     </td>
+      <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45" />
+      </a>
+      <br/> Mysql
+    </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
@@ -40,12 +46,6 @@
         <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="45" height="45" />
       </a>
       <br/> TypeScript
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45" />
-      </a>
-      <br/> Mysql
     </td>
   </tr>
   <tr>
