@@ -112,7 +112,7 @@
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i="nginx" alt="docker" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=nginx" alt="docker" width="45" height="45" />
       </a>
       <br/> Nginx
     </td>
