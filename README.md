@@ -7,6 +7,18 @@
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=java" alt="html" width="45" height="45" />
+      </a>
+      <br/> Java
+    </td>
+      <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=spring" alt="html" width="45" height="45" />
+      </a>
+      <br/> Spring
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
       </a>
       <br/> HTML
