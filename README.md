@@ -1,5 +1,10 @@
 ## Hi there 👋
+✨ **Brief Introduction:**
 
+- 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
+- 🌱 Presently, I am learning Spring security and Redis. It's truly fascinating about the multi-platform development!
+- 💬 Feel free to ask me about **anything** !
+- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love math, singing and watching movies in my free time.
 
 ## My Tech Stack 💻
 > My favorite and most-skilled
@@ -126,9 +131,9 @@
   </tr>
 </table>
 
-## Github stats 🚀
+## Github status 🚀
 
-> Here is my Github profile stats:
+> Here is my Github profile status:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
