@@ -43,12 +43,6 @@
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
-      </a>
-      <br/> Node.js
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45" />
       </a>
       <br/> Mysql
@@ -94,6 +88,12 @@
         <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
       </a>
       <br/> Python
+    </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
+      </a>
+      <br/> Node.js
     </td>
   </tr>
 </table>
