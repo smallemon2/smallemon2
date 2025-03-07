@@ -94,9 +94,9 @@
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="http://www.w3.org/2000/svg" alt="docker" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="45" height="45" />
       </a>
-      <br/> Python
+      <br/> Docker
     </td>
   </tr>
 </table>
