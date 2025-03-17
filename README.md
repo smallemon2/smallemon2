@@ -31,6 +31,12 @@
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="45" height="45" />
+      </a>
+      <br/> Docker
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
       </a>
       <br/> HTML
@@ -118,16 +124,15 @@
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="45" height="45" />
-      </a>
-      <br/> Docker
-    </td>
-
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=redis" alt="docker" width="45" height="45" />
       </a>
       <br/> Redis
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://github.com/user-attachments/assets/f142a1f8-50ea-4af1-b3bf-ff46f62d8fdc" alt="docker" width="45" height="45" />
+      </a>
+      <br/> MQ
     </td>
   </tr>
 </table>
