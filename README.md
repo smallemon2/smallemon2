@@ -39,7 +39,7 @@
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=godot" alt="html" width="45" height="45" />
       </a>
-      <br/> godot
+      <br/> Godot
     </td>
   </tr>
 </table>
