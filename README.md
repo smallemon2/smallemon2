@@ -74,13 +74,6 @@
         <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
       </a>
       <br/> Python
-    </td>
-        <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
-      </a>
-      <br/> Node.js
-    </td>
         <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=nginx" alt="docker" width="45" height="45" />
@@ -107,6 +100,13 @@
         <img src="https://github.com/user-attachments/assets/f142a1f8-50ea-4af1-b3bf-ff46f62d8fdc" alt="docker" width="45" height="45" />
       </a>
       <br/> MQ
+    </td>
+    </td>
+        <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
+      </a>
+      <br/> Node.js
     </td>
   </tr>
 </table>
