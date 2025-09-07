@@ -37,35 +37,9 @@
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=godot" alt="html" width="45" height="45" />
       </a>
-      <br/> HTML
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" />
-      </a>
-      <br/> CSS
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />
-      </a>
-      <br/> JavaScript
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="45" height="45" />
-      </a>
-      <br/> TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="45" height="45" />
-      </a>
-      <br/> Vue
+      <br/> godot
     </td>
   </tr>
 </table>
